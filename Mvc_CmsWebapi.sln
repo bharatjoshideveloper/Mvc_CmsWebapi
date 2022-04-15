@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32126.317
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mvc_CmsWebapi", "Mvc_CmsWebapi\Mvc_CmsWebapi.csproj", "{DC147737-2B97-43F5-B658-45EF4F037C42}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DC147737-2B97-43F5-B658-45EF4F037C42}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DC147737-2B97-43F5-B658-45EF4F037C42}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DC147737-2B97-43F5-B658-45EF4F037C42}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DC147737-2B97-43F5-B658-45EF4F037C42}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {204BB5B8-7F9D-4EB0-BA80-00C07C993E1E}
+	EndGlobalSection
+EndGlobal
